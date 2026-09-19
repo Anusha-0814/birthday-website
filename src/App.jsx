@@ -322,17 +322,17 @@ function App() {
 
           <div className="wish-lines">
             <p className="wish-line line-1">
-              Nuvvu ilanti birthdays inka enno celebrate chesukovali.
+              Nuvvu ilanti birthdays inka enno celebrate chesukovali💗
             </p>
 
             <p className="wish-line line-2">
               Next birthday ki nuvvu pedda hero vi ayipothav ani anukuntunna,
-              Pakka avuthav. I know that.
+              Pakka avuthav. I know that🫂
             </p>
 
             <p className="wish-line line-3">
               Ee prapancham lo unna motham manchi antha neeke jaragalani
-              korukuntunna, Nanna.
+              korukuntunna, Nanna🥺
             </p>
 
             <p className="wish-line line-4">You know what?</p>
@@ -354,7 +354,7 @@ function App() {
               becoming.
             </p>
 
-            <p className="wish-line line-8">And I still do.</p>
+            <p className="wish-line line-8">And I still do☺️.</p>
 
             <p className="wish-line line-9">
               I want to see you become a big hero.
@@ -367,7 +367,7 @@ function App() {
             </p>
 
             <p className="wish-line line-11">
-              I'll always be proud of the person you are...
+              I'll always be proud of the person you are💗
               <br />
               and even more proud of the person you're going to become.
             </p>
@@ -378,7 +378,7 @@ function App() {
 
             <p className="wish-line line-13">
               I hope you remember that there was someone who genuinely
-              believed in you from the beginning.
+              believed in you from the beginning🥺.
             </p>
 
             <p className="wish-line line-14">
@@ -393,7 +393,7 @@ function App() {
             </p>
 
             <p className="wish-line line-16">
-              May you get everything you've ever wished for.
+              May you get everything you've ever wished for🫂.
             </p>
 
             <p className="wish-line line-17">
